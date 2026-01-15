@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About – temp_website</title>
+<title>Final Year Project: Honeypot_Studio A Distributed Cyber Threat Detection System – temp_website</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -65,6 +65,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -108,13 +109,17 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="floating nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./logo.png" alt="" class="navbar-logo light-content">
+    <img src="./logo.png" alt="" class="navbar-logo dark-content">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">temp_website</span>
     </a>
@@ -130,8 +135,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link active" href="./fyp.html" aria-current="page"> 
+<span class="menu-text">FYP</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./datavisualization.html"> 
+<span class="menu-text">Data Visualization</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./reflection.html"> 
+<span class="menu-text">reflection</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -143,16 +156,30 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#project-background" id="toc-project-background" class="nav-link active" data-scroll-target="#project-background">🔍 Project Background</a></li>
+  <li><a href="#objectives" id="toc-objectives" class="nav-link" data-scroll-target="#objectives">🎯 Objectives</a></li>
+  <li><a href="#implementation" id="toc-implementation" class="nav-link" data-scroll-target="#implementation">🛠 Implementation</a></li>
+  <li><a href="#outcomes" id="toc-outcomes" class="nav-link" data-scroll-target="#outcomes">📊 Outcomes</a></li>
+  <li><a href="#repository" id="toc-repository" class="nav-link" data-scroll-target="#repository">🔗 Repository</a></li>
+  <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection">🧠 Reflection</a></li>
+  </ul>
+</nav>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About</h1>
+<h1 class="title">Final Year Project: Honeypot_Studio A Distributed Cyber Threat Detection System</h1>
 </div>
 
 
@@ -169,7 +196,42 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<p>About this site</p>
+<section id="project-background" class="level2">
+<h2 class="anchored" data-anchor-id="project-background">🔍 Project Background</h2>
+<p>In my final year at SIT, I developed <strong>Honeypot_Studio</strong>, a distributed honeypot system designed to detect and analyze real-world cyber attacks. The project was inspired by the rising need for practical threat intelligence in academic and small-scale organizational networks.</p>
+</section>
+<section id="objectives" class="level2">
+<h2 class="anchored" data-anchor-id="objectives">🎯 Objectives</h2>
+<ul>
+<li>Simulate vulnerable services across multiple nodes to attract attackers</li>
+<li>Collect and centralize attack logs for analysis</li>
+<li>Visualize attack patterns in real-time</li>
+<li>Provide actionable insights for cybersecurity training</li>
+</ul>
+</section>
+<section id="implementation" class="level2">
+<h2 class="anchored" data-anchor-id="implementation">🛠 Implementation</h2>
+<p>The system integrates: - <strong>Cowrie</strong> (SSH honeypot) - <strong>Dionaea</strong> (malware capture) - <strong>Elastic Stack</strong> for log aggregation and dashboards - <strong>Python scripts</strong> for automation and alerting</p>
+</section>
+<section id="outcomes" class="level2">
+<h2 class="anchored" data-anchor-id="outcomes">📊 Outcomes</h2>
+<ul>
+<li>Successfully captured over 1,000 attack attempts in a 2-week deployment</li>
+<li>Identiated common attack vectors (brute-force SSH, IoT exploits)</li>
+<li>Delivered a working dashboard for real-time monitoring</li>
+</ul>
+</section>
+<section id="repository" class="level2">
+<h2 class="anchored" data-anchor-id="repository">🔗 Repository</h2>
+<p>You can view the full project on GitHub:<br>
+<a href="https://github.com/TheOneFluffer/Honeypot_Studio">Honeypot_Studio Repository</a></p>
+</section>
+<section id="reflection" class="level2">
+<h2 class="anchored" data-anchor-id="reflection">🧠 Reflection</h2>
+<p>Building this project deepened my understanding of: - Network security monitoring - Attack attribution and log analysis - The importance of deception in cyber defense</p>
+<blockquote class="blockquote">
+<p>“Security is not just about defense—it’s about understanding the attacker.” – My takeaway from this project.</p>
+</blockquote>
 <div class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <div class="cell-output cell-output-stdout">
@@ -178,6 +240,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

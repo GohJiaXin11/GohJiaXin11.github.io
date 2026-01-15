@@ -1,0 +1,40 @@
+---
+title: "Final Year Project: Honeypot_Studio A Distributed Cyber Threat Detection System  "
+---
+
+## 🔍 Project Background
+In my final year at SIT, I developed **Honeypot_Studio**, a distributed honeypot system designed to detect and analyze real-world cyber attacks. The project was inspired by the rising need for practical threat intelligence in academic and small-scale organizational networks.
+
+## 🎯 Objectives
+- Simulate vulnerable services across multiple nodes to attract attackers
+- Collect and centralize attack logs for analysis
+- Visualize attack patterns in real-time
+- Provide actionable insights for cybersecurity training
+
+## 🛠 Implementation
+The system integrates:
+- **Cowrie** (SSH honeypot)
+- **Dionaea** (malware capture)
+- **Elastic Stack** for log aggregation and dashboards
+- **Python scripts** for automation and alerting
+
+## 📊 Outcomes
+- Successfully captured over 1,000 attack attempts in a 2-week deployment
+- Identiated common attack vectors (brute-force SSH, IoT exploits)
+- Delivered a working dashboard for real-time monitoring
+
+## 🔗 Repository
+You can view the full project on GitHub:  
+[Honeypot_Studio Repository](https://github.com/TheOneFluffer/Honeypot_Studio)
+
+## 🧠 Reflection
+Building this project deepened my understanding of:
+- Network security monitoring
+- Attack attribution and log analysis
+- The importance of deception in cyber defense
+
+> “Security is not just about defense—it’s about understanding the attacker.” – My takeaway from this project.
+
+```{r}
+1 + 1
+```

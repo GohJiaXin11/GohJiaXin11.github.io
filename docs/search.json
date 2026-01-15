@@ -1,16 +1,156 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "temp_website",
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This reflection describes my genuine experience using Generative Artificial Intelligence (GenAI) tools to support the completion of this assessment. GenAI was used as a learning aid and productivity tool, not as a replacement for my own understanding or effort."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "reflection.html#reflection-on-the-use-of-genai",
+    "href": "reflection.html#reflection-on-the-use-of-genai",
+    "title": "Reflection on the use of GenAI",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This reflection describes my genuine experience using Generative Artificial Intelligence (GenAI) tools to support the completion of this assessment. GenAI was used as a learning aid and productivity tool, not as a replacement for my own understanding or effort."
+  },
+  {
+    "objectID": "reflection.html#genai-tool-used-and-reason-for-selection",
+    "href": "reflection.html#genai-tool-used-and-reason-for-selection",
+    "title": "Reflection on the use of GenAI",
+    "section": "GenAI Tool Used and Reason for Selection",
+    "text": "GenAI Tool Used and Reason for Selection\nThe main GenAI tool I used for this assessment was ChatGPT.\nI chose ChatGPT because: It is easily accessible and user-friendly. It provides clear explanations for both technical and non-technical tasks. It supports multiple aspects of learning, including coding and academic writing\nAs a student studying Applied Computing, I found it useful for clarifying concepts and improving the structure of my work."
+  },
+  {
+    "objectID": "reflection.html#how-genai-supported-the-completion-of-the-assessment",
+    "href": "reflection.html#how-genai-supported-the-completion-of-the-assessment",
+    "title": "Reflection on the use of GenAI",
+    "section": "How GenAI Supported the Completion of the Assessment",
+    "text": "How GenAI Supported the Completion of the Assessment\nGenAI assisted me at different stages of the assessment:\n\nUnderstanding how to structure a Quarto (.qmd) file\nLearning how to use R libraries such as ggplot2 for data visualization\nImproving the clarity and coherence of written explanations\n\nFor example, when creating the data visualization page, GenAI helped me understand how to present quantitative data using a suitable graph and how to explain the rationale behind the visualization choice in an academic manner.\nI reviewed and edited all generated content to ensure it aligned with my own understanding and the assessment requirements."
+  },
+  {
+    "objectID": "reflection.html#personal-reflection-on-using-genai",
+    "href": "reflection.html#personal-reflection-on-using-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "Personal Reflection on Using GenAI",
+    "text": "Personal Reflection on Using GenAI\n\n“GenAI did not complete the assessment for me, but it helped me think more clearly about how to approach each task and structure my work.”\n\nWhile working on this assessment, I used GenAI mainly as a guidance and clarification tool rather than a solution provider. When I encountered difficulties in explaining my visualization or formatting my Quarto pages, GenAI helped me identify what was missing and how to improve my presentation.\nAt the same time, I realised that GenAI outputs are not always perfect. In several cases, I had to adjust the wording or logic to better reflect my own understanding. This experience reinforced the importance of critical thinking when using GenAI tools."
+  },
+  {
+    "objectID": "reflection.html#benefits-of-using-genai",
+    "href": "reflection.html#benefits-of-using-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "Benefits of Using GenAI",
+    "text": "Benefits of Using GenAI\nSome key benefits of using GenAI include:\n\nImmediate access to explanations and examples\nImproved efficiency when completing technical tasks\nSupport for both coding and reflective writing\n\nThese benefits allowed me to focus more on learning the concepts rather than spending excessive time searching for documentation."
+  },
+  {
+    "objectID": "reflection.html#challenges-and-limitations-of-genai",
+    "href": "reflection.html#challenges-and-limitations-of-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "Challenges and Limitations of GenAI",
+    "text": "Challenges and Limitations of GenAI\nDespite its advantages, GenAI also presents challenges:\n\nOutputs may sometimes be inaccurate or overly general\nThere is a risk of over-reliance if used without reflection\nUsers must verify information instead of assuming correctness\n\nThis means that a basic understanding of the subject is still essential when using GenAI effectively."
+  },
+  {
+    "objectID": "reflection.html#future-use-of-genai-in-study-and-work",
+    "href": "reflection.html#future-use-of-genai-in-study-and-work",
+    "title": "Reflection on the use of GenAI",
+    "section": "Future Use of GenAI in Study and Work",
+    "text": "Future Use of GenAI in Study and Work\nIn future studies, I plan to use GenAI as a supporting tool for: - Understanding complex concepts - Debugging and reviewing code - Structuring reports and documentation\nIn a professional context, GenAI can assist with productivity and ideation, but responsible use will require careful evaluation of outputs and adherence to ethical and academic integrity standards."
+  },
+  {
+    "objectID": "reflection.html#final-thoughts",
+    "href": "reflection.html#final-thoughts",
+    "title": "Reflection on the use of GenAI",
+    "section": "Final Thoughts",
+    "text": "Final Thoughts\nOverall, my experience using GenAI for this assessment has been positive. When used responsibly, GenAI enhances learning and efficiency while still requiring active engagement and independent thinking from the user."
+  },
+  {
+    "objectID": "fyp.html",
+    "href": "fyp.html",
+    "title": "Final Year Project: Honeypot_Studio A Distributed Cyber Threat Detection System",
+    "section": "",
+    "text": "In my final year at SIT, I developed Honeypot_Studio, a distributed honeypot system designed to detect and analyze real-world cyber attacks. The project was inspired by the rising need for practical threat intelligence in academic and small-scale organizational networks."
+  },
+  {
+    "objectID": "fyp.html#project-background",
+    "href": "fyp.html#project-background",
+    "title": "Final Year Project: Honeypot_Studio A Distributed Cyber Threat Detection System",
+    "section": "",
+    "text": "In my final year at SIT, I developed Honeypot_Studio, a distributed honeypot system designed to detect and analyze real-world cyber attacks. The project was inspired by the rising need for practical threat intelligence in academic and small-scale organizational networks."
+  },
+  {
+    "objectID": "fyp.html#objectives",
+    "href": "fyp.html#objectives",
+    "title": "Final Year Project: Honeypot_Studio A Distributed Cyber Threat Detection System",
+    "section": "🎯 Objectives",
+    "text": "🎯 Objectives\n\nSimulate vulnerable services across multiple nodes to attract attackers\nCollect and centralize attack logs for analysis\nVisualize attack patterns in real-time\nProvide actionable insights for cybersecurity training"
+  },
+  {
+    "objectID": "fyp.html#implementation",
+    "href": "fyp.html#implementation",
+    "title": "Final Year Project: Honeypot_Studio A Distributed Cyber Threat Detection System",
+    "section": "🛠 Implementation",
+    "text": "🛠 Implementation\nThe system integrates: - Cowrie (SSH honeypot) - Dionaea (malware capture) - Elastic Stack for log aggregation and dashboards - Python scripts for automation and alerting"
+  },
+  {
+    "objectID": "fyp.html#outcomes",
+    "href": "fyp.html#outcomes",
+    "title": "Final Year Project: Honeypot_Studio A Distributed Cyber Threat Detection System",
+    "section": "📊 Outcomes",
+    "text": "📊 Outcomes\n\nSuccessfully captured over 1,000 attack attempts in a 2-week deployment\nIdentiated common attack vectors (brute-force SSH, IoT exploits)\nDelivered a working dashboard for real-time monitoring"
+  },
+  {
+    "objectID": "fyp.html#repository",
+    "href": "fyp.html#repository",
+    "title": "Final Year Project: Honeypot_Studio A Distributed Cyber Threat Detection System",
+    "section": "🔗 Repository",
+    "text": "🔗 Repository\nYou can view the full project on GitHub:\nHoneypot_Studio Repository"
+  },
+  {
+    "objectID": "fyp.html#reflection",
+    "href": "fyp.html#reflection",
+    "title": "Final Year Project: Honeypot_Studio A Distributed Cyber Threat Detection System",
+    "section": "🧠 Reflection",
+    "text": "🧠 Reflection\nBuilding this project deepened my understanding of: - Network security monitoring - Attack attribution and log analysis - The importance of deception in cyber defense\n\n“Security is not just about defense—it’s about understanding the attacker.” – My takeaway from this project.\n\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "datavisualization.html",
+    "href": "datavisualization.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "This page presents a data visualization created during my student life.\nThe visualization uses quantitative data and was designed to answer a specific analytical question using an appropriate graphical form."
+  },
+  {
+    "objectID": "datavisualization.html#overview",
+    "href": "datavisualization.html#overview",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "This page presents a data visualization created during my student life.\nThe visualization uses quantitative data and was designed to answer a specific analytical question using an appropriate graphical form."
+  },
+  {
+    "objectID": "datavisualization.html#visualization-relationship-between-study-hours-and-exam-scores",
+    "href": "datavisualization.html#visualization-relationship-between-study-hours-and-exam-scores",
+    "title": "Data Visualization",
+    "section": "Visualization: Relationship Between Study Hours and Exam Scores",
+    "text": "Visualization: Relationship Between Study Hours and Exam Scores\n\nContext of the Task\nThis visualization was created for a statistics module to explore whether there is a relationship between the number of hours students spend studying and their exam performance.\nThe dataset contains: - Study Hours (number of hours studied per week) - Exam Score (final exam score out of 100)\nThe goal was to determine whether increased study time is associated with higher exam scores."
+  },
+  {
+    "objectID": "datavisualization.html#data-visualization",
+    "href": "datavisualization.html#data-visualization",
+    "title": "Data Visualization",
+    "section": "Data Visualization",
+    "text": "Data Visualization\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.6\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.1     ✔ tibble    3.3.0\n✔ lubridate 1.9.4     ✔ tidyr     1.3.2\n✔ purrr     1.2.0     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n`geom_smooth()` using formula = 'y ~ x'\n\n\n\n\n\n\n\n\n\n\nExplanation of the Visualization and Story Behind the Task\nThe visualization presents the relationship between study hours per week and exam scores, both of which are quantitative variables. Each point on the scatter plot represents one observation, where the x-axis shows the number of hours a student studied in a week and the y-axis shows the corresponding exam score achieved. A linear trend line is included to highlight the overall pattern in the data.\nThis task was carried out during a statistics module to explore how numerical data can be used to identify relationships between variables. The motivation behind the task was to understand whether increased study time has a measurable impact on academic performance, a question that is relevant to most students. Instead of relying on intuition alone, the visualization allows this relationship to be examined objectively using data.\nA scatter plot was chosen because it is well suited for visualizing the relationship between two continuous numerical variables. It allows individual data points to be clearly seen while also revealing the overall trend. The addition of a regression line helps summarize the general direction of the relationship, making it easier to communicate the key insight that exam scores tend to increase as study hours increase.\nOverall, this visualization demonstrates how quantitative data can be effectively communicated through graphical representation, enabling patterns and trends to be identified more clearly than through raw numerical data alone."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my Site",
+    "section": "",
+    "text": "I’m a first year student at SIT studying Applied Computing (Fintech) with passion for visualization, machine learning and storytelling with data.\nHere’s a photo of me: \nI enjoy: - 📊 Creating interactive dashboards\n- 🔬 Learning about new tech and innovations\n- 📚 Reading novels in my free time\n- 🏸 Playing badminton with friends\n\n\nI’m currently working on a Honeypot Studio for cybersecurity students & researchers. Check out my project page To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#hi-i-am-jia-xin",
+    "href": "index.html#hi-i-am-jia-xin",
+    "title": "Welcome to my Site",
+    "section": "",
+    "text": "I’m a first year student at SIT studying Applied Computing (Fintech) with passion for visualization, machine learning and storytelling with data.\nHere’s a photo of me: \nI enjoy: - 📊 Creating interactive dashboards\n- 🔬 Learning about new tech and innovations\n- 📚 Reading novels in my free time\n- 🏸 Playing badminton with friends\n\n\nI’m currently working on a Honeypot Studio for cybersecurity students & researchers. Check out my project page To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]

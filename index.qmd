@@ -1,10 +1,22 @@
 ---
-title: "temp_website"
+title: "Welcome to my Site"
 ---
 
-This is a Quarto website.
+## 👋 Hi, I am Jia Xin
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm a first year student at SIT studying Applied Computing (Fintech) with passion for visualization, machine learning and storytelling with data.
+
+Here's a photo of me: ![My Photo](profile.jpg){fig-alt="A photo of me"}
+
+I enjoy: 
+- 📊 Creating interactive dashboards\
+- 🔬 Learning about new tech and innovations\
+- 📚 Reading novels in my free time\
+- 🏸 Playing badminton with friends
+
+### Latest Project
+
+I'm currently working on a **Honeypot Studio** for cybersecurity students & researchers. [Check out my project page](fyp.qmd) To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
 1 + 1
